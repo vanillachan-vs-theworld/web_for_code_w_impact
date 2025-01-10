@@ -1006,7 +1006,7 @@ strong {
 /*---------------------------------------
   CONTACT               
 -----------------------------------------*/
-/*.contact-form .form-floating>textarea {
+.contact-form .form-floating>textarea {
   border-radius: var(--border-radius-medium);
   height: 120px;
 }
@@ -1049,7 +1049,7 @@ strong {
   display: block;
   font-weight: var(--font-weight-bold);
 }
-*/
+
 
 /*---------------------------------------
   SITE FOOTER            
@@ -1073,9 +1073,9 @@ strong {
   pointer-events: none;
 }
 
-/* .site-footer-title {
+ .site-footer-title {
   color: var(--secondary-color);
-} */
+} 
 
 .site-footer p span {
   font-weight: var(--font-weight-medium);
@@ -1085,7 +1085,7 @@ strong {
 
 /*-CUSTOM FORM               
 -----------------------------------------*/
-/* .custom-form .form-control {
+ .custom-form .form-control {
   border-radius: var(--border-radius-large);
   border-width: 2px;
   box-shadow: none;
@@ -1138,7 +1138,7 @@ strong {
   margin: 12px;
   margin-left: 15px;
 }
-*/
+
 /*---------------------------------------
   SOCIAL ICON               
 -----------------------------------------*/
@@ -1237,7 +1237,7 @@ strong {
     margin-bottom: 82px;
   }
 
- /* .events-listing-section {
+  .events-listing-section {
     margin-bottom: 50px;
   }
 
@@ -1264,7 +1264,7 @@ strong {
   .section-bg-image-block {
     padding: 30px;
   }
-*/
+
  .site-footer {
     padding-top: 50px;
     padding-bottom: 20px;
