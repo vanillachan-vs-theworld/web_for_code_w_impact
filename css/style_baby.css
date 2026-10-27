@@ -651,7 +651,7 @@ strong {
 -----------------------------------------*/
 .hero-section {
   /*note: here for the background image */ 
-  background-image: url(../images/logo.png) ;
+  background-image: url(../images/logo.png);
   background-repeat: no-repeat;
   background-size:contain;
   background-position: center;
@@ -664,6 +664,28 @@ strong {
   margin-right: auto;
   margin-bottom: 90px;
   width: auto;
+}
+
+.logo {
+  background-position: center;
+  position: static;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  height: 100dvh;
+  min-height: 670px;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
+
+.logo-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  height: 100dvh;
+  min-height: 670px;
 }
 
 .hero-50 {
